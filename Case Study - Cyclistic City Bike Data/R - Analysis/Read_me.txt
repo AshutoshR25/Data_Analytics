@@ -23,6 +23,8 @@ Link for datasets - https://divvy-tripdata.s3.amazonaws.com/index.html
           
 4. Run the .Rmd file on your computer.
 
+5. You can also view the .pdf file for the code and output with steps of analysis.
+
 Great.
 Now, you can use this data for your own research and understanding of my data analysis.
 
