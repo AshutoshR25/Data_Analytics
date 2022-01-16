@@ -1,6 +1,6 @@
 Hello,
 
-Welcome to the case study on Data Analysis of Cyclistic Citibikes datasets.
+- Welcome to the case study on Data Analysis of Cyclistic Citibikes datasets.
 
 Please click on the below link to download the required datasets into a single folder and name it appropriately based on your convenience.
 Link for datasets - https://divvy-tripdata.s3.amazonaws.com/index.html
