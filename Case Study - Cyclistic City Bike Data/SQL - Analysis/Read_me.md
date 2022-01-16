@@ -1,6 +1,6 @@
 Hello,
 
-Welcome to the case study on Data Analysis of Cyclistic Citibikes datasets.
+- Welcome to the case study on Data Analysis of Cyclistic Citibikes datasets.
 
 Requirements -
   
