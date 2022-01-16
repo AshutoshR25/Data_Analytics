@@ -15,7 +15,7 @@ Link for datasets - https://divvy-tripdata.s3.amazonaws.com/index.html
   
 2. Save it in the folder same as where you will download the .Rmd file from this repository.
 
-3. Note - Wherever you will find the path, change it to your path of working directory
+3. - Note - Wherever you will find the path, change it to your path of working directory
           For eg. - setwd(" ")
 
           This will help you download and conduct the analysis and running of the file smoothly.
